@@ -1,0 +1,4 @@
+/home/students/inf/j/jo448417/PW/PROJEKT_3/jo448417/CMakeFiles/queues.dir
+/home/students/inf/j/jo448417/PW/PROJEKT_3/jo448417/CMakeFiles/simpleTester.dir
+/home/students/inf/j/jo448417/PW/PROJEKT_3/jo448417/CMakeFiles/edit_cache.dir
+/home/students/inf/j/jo448417/PW/PROJEKT_3/jo448417/CMakeFiles/rebuild_cache.dir

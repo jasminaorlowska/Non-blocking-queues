@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -Wpedantic -Wno-sign-compare -Wno-unused-parameter -O3 -march=native -fno-exceptions CMakeFiles/simpleTester.dir/simpleTester.c.o CMakeFiles/queues.dir/SimpleQueue.c.o CMakeFiles/queues.dir/RingsQueue.c.o CMakeFiles/queues.dir/LLQueue.c.o CMakeFiles/queues.dir/BLQueue.c.o CMakeFiles/queues.dir/HazardPointer.c.o -o simpleTester  -latomic 
